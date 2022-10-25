@@ -41,5 +41,19 @@ vscode 새창으로 열림!!!!!!!!!!!!
 "editor.inlayHints.enabled": "OFF",
 넣고 값을 OFF로 덮어씀
 
+[ 자바 class 경로 지정 환경설정하기]
+1. F1키 누르고 검색 "java config"
+-> Java Configure ClassPath를 선택
+
+2. 클래스 경로 지정 페이지 보임!
+
+Sources -> 원소스인 java 파일이 있는 곳
+Path -> 아니면 X를 누른후 add로 추가한다.
+
+Output -> clas를 생성하여 출력하는 곳 지정
+Browse를 클릭하여 경로를 잡아준다.
+
+(주의: 경로는 프로젝트 루트로부터 잡히는 경룅므로
+만약 루트가 바뀌면 다시 설정 필요함!)
 
 
